@@ -6,4 +6,4 @@
 This application has been created to evolve my skills as a front-end developer.
 
 ## Demo
-<p align="left"> <a href="https://thiagomessias.com.be" target="_blank">click here</a></p>
+<p align="left"> <a href="https://thiagomessias.com" target="_blank">click here</a></p>
