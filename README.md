@@ -5,5 +5,5 @@
 ## Objective
 This application has been created to evolve my skills as a front-end developer.
 
-## Access Demo
+## Demo
 <p align="left"> <a href="https://thiagomessias.com.be" target="_blank">click here</a></p>
